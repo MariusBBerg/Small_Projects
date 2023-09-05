@@ -2,6 +2,7 @@ import pygame
 from pygame.locals import *
 import random as rd
 
+print("Test for GIT")
 
 class Ordet:
     def __init__(self, ord):
